@@ -1,0 +1,1 @@
+export const data =["Sales","Collection","Clothing","Dresses","Hijab","Accessories","Collab"]

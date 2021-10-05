@@ -1,0 +1,36 @@
+.header {
+  height: 97px;
+}
+.logo-div {
+  /* background-color: red; */
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.main-logo {
+  height: 94px;
+  width: 160px;
+}
+.navbar-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-component {
+  display: flex;
+
+  padding: 10px 30px;
+  color: rgb(145, 145, 145);
+  font-size: 20px;
+}
+.feature-div {
+  position: absolute;
+  margin-top: auto;
+  right: 2%;
+  top: 5%;
+}
+.side-logo {
+  height: 20px;
+  width: 20px;
+  padding: 6px 15px;
+}
